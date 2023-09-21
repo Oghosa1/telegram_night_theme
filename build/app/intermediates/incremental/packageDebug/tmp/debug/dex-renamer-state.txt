@@ -1,0 +1,4 @@
+#Thu Sep 21 09:39:31 WAT 2023
+base.0=/home/oghosa/Dev/telegram_night_theme/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
